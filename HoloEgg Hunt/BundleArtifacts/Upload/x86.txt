@@ -1,0 +1,2 @@
+MainPackage=C:\Users\suzan\Drive\HolApp\EasterEggHunt\App\HoloEgg Hunt\bin\x86\Master\Upload\HoloEgg Hunt_1.1.1.0_x86_Master.appx
+SymbolPackage=C:\Users\suzan\Drive\HolApp\EasterEggHunt\App\HoloEgg Hunt\AppPackages\HoloEgg Hunt_1.1.1.0_Master\HoloEgg Hunt_1.1.1.0_x86_Master.appxsym
